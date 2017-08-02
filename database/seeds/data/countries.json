@@ -1,0 +1,1222 @@
+[
+  {
+    "iso_code": "DE",
+    "call_prefix": 49,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "AT",
+    "call_prefix": 43,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "BE",
+    "call_prefix": 32,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "CA",
+    "call_prefix": 1,
+    "postcode_format": "LNL NLN"
+  },
+  {
+    "iso_code": "CN",
+    "call_prefix": 86,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "ES",
+    "call_prefix": 34,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "FI",
+    "call_prefix": 358,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "FR",
+    "call_prefix": 33,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "GR",
+    "call_prefix": 30,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "IT",
+    "call_prefix": 39,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "JP",
+    "call_prefix": 81,
+    "postcode_format": "NNN-NNNN"
+  },
+  {
+    "iso_code": "LU",
+    "call_prefix": 352,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "NL",
+    "call_prefix": 31,
+    "postcode_format": "NNNN LL"
+  },
+  {
+    "iso_code": "PL",
+    "call_prefix": 48,
+    "postcode_format": "NN-NNN"
+  },
+  {
+    "iso_code": "PT",
+    "call_prefix": 351,
+    "postcode_format": "NNNN-NNN"
+  },
+  {
+    "iso_code": "CZ",
+    "call_prefix": 420,
+    "postcode_format": "NNN NN"
+  },
+  {
+    "iso_code": "GB",
+    "call_prefix": 44,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SE",
+    "call_prefix": 46,
+    "postcode_format": "NNN NN"
+  },
+  {
+    "iso_code": "CH",
+    "call_prefix": 41,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "DK",
+    "call_prefix": 45,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "US",
+    "call_prefix": 1,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "HK",
+    "call_prefix": 852,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "NO",
+    "call_prefix": 47,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "AU",
+    "call_prefix": 61,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "SG",
+    "call_prefix": 65,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "IE",
+    "call_prefix": 353,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "NZ",
+    "call_prefix": 64,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "KR",
+    "call_prefix": 82,
+    "postcode_format": "NNN-NNN"
+  },
+  {
+    "iso_code": "IL",
+    "call_prefix": 972,
+    "postcode_format": "NNNNNNN"
+  },
+  {
+    "iso_code": "ZA",
+    "call_prefix": 27,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "NG",
+    "call_prefix": 234,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CI",
+    "call_prefix": 225,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TG",
+    "call_prefix": 228,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BO",
+    "call_prefix": 591,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MU",
+    "call_prefix": 230,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "RO",
+    "call_prefix": 40,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "SK",
+    "call_prefix": 421,
+    "postcode_format": "NNN NN"
+  },
+  {
+    "iso_code": "DZ",
+    "call_prefix": 213,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "AS",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "AD",
+    "call_prefix": 376,
+    "postcode_format": "CNNN"
+  },
+  {
+    "iso_code": "AO",
+    "call_prefix": 244,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "AI",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "AG",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "AR",
+    "call_prefix": 54,
+    "postcode_format": "LNNNN"
+  },
+  {
+    "iso_code": "AM",
+    "call_prefix": 374,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "AW",
+    "call_prefix": 297,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "AZ",
+    "call_prefix": 994,
+    "postcode_format": "CNNNN"
+  },
+  {
+    "iso_code": "BS",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BH",
+    "call_prefix": 973,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BD",
+    "call_prefix": 880,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "BB",
+    "call_prefix": null,
+    "postcode_format": "CNNNNN"
+  },
+  {
+    "iso_code": "BY",
+    "call_prefix": null,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "BZ",
+    "call_prefix": 501,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BJ",
+    "call_prefix": 229,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BM",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BT",
+    "call_prefix": 975,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BW",
+    "call_prefix": 267,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BR",
+    "call_prefix": 55,
+    "postcode_format": "NNNNN-NNN"
+  },
+  {
+    "iso_code": "BN",
+    "call_prefix": 673,
+    "postcode_format": "LLNNNN"
+  },
+  {
+    "iso_code": "BF",
+    "call_prefix": 226,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MM",
+    "call_prefix": 95,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BI",
+    "call_prefix": 257,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "KH",
+    "call_prefix": 855,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "CM",
+    "call_prefix": 237,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CV",
+    "call_prefix": 238,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "CF",
+    "call_prefix": 236,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TD",
+    "call_prefix": 235,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CL",
+    "call_prefix": 56,
+    "postcode_format": "NNN-NNNN"
+  },
+  {
+    "iso_code": "CO",
+    "call_prefix": 57,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "KM",
+    "call_prefix": 269,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CD",
+    "call_prefix": 242,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CG",
+    "call_prefix": 243,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CR",
+    "call_prefix": 506,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "HR",
+    "call_prefix": 385,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "CU",
+    "call_prefix": 53,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CY",
+    "call_prefix": 357,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "DJ",
+    "call_prefix": 253,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "DM",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "DO",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TL",
+    "call_prefix": 670,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "EC",
+    "call_prefix": 593,
+    "postcode_format": "CNNNNNN"
+  },
+  {
+    "iso_code": "EG",
+    "call_prefix": 20,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SV",
+    "call_prefix": 503,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GQ",
+    "call_prefix": 240,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "ER",
+    "call_prefix": 291,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "EE",
+    "call_prefix": 372,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "ET",
+    "call_prefix": 251,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "FK",
+    "call_prefix": null,
+    "postcode_format": "LLLL NLL"
+  },
+  {
+    "iso_code": "FO",
+    "call_prefix": 298,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "FJ",
+    "call_prefix": 679,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GA",
+    "call_prefix": 241,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GM",
+    "call_prefix": 220,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GE",
+    "call_prefix": 995,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "GH",
+    "call_prefix": 233,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GD",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GL",
+    "call_prefix": 299,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GI",
+    "call_prefix": 350,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GP",
+    "call_prefix": 590,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GU",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GT",
+    "call_prefix": 502,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GG",
+    "call_prefix": null,
+    "postcode_format": "LLN NLL"
+  },
+  {
+    "iso_code": "GN",
+    "call_prefix": 224,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GW",
+    "call_prefix": 245,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GY",
+    "call_prefix": 592,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "HT",
+    "call_prefix": 509,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "HM",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "VA",
+    "call_prefix": 379,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "HN",
+    "call_prefix": 504,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "IS",
+    "call_prefix": 354,
+    "postcode_format": "NNN"
+  },
+  {
+    "iso_code": "IN",
+    "call_prefix": 91,
+    "postcode_format": "NNN NNN"
+  },
+  {
+    "iso_code": "ID",
+    "call_prefix": 62,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "IR",
+    "call_prefix": 98,
+    "postcode_format": "NNNNN-NNNNN"
+  },
+  {
+    "iso_code": "IQ",
+    "call_prefix": 964,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "IM",
+    "call_prefix": null,
+    "postcode_format": "CN NLL"
+  },
+  {
+    "iso_code": "JM",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "JE",
+    "call_prefix": null,
+    "postcode_format": "CN NLL"
+  },
+  {
+    "iso_code": "JO",
+    "call_prefix": 962,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "KZ",
+    "call_prefix": 7,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "KE",
+    "call_prefix": 254,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "KI",
+    "call_prefix": 686,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "KP",
+    "call_prefix": 850,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "KW",
+    "call_prefix": 965,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "KG",
+    "call_prefix": 996,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "LA",
+    "call_prefix": 856,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "LV",
+    "call_prefix": 371,
+    "postcode_format": "C-NNNN"
+  },
+  {
+    "iso_code": "LB",
+    "call_prefix": 961,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "LS",
+    "call_prefix": 266,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "LR",
+    "call_prefix": 231,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "LY",
+    "call_prefix": 218,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "LI",
+    "call_prefix": 423,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "LT",
+    "call_prefix": 370,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "MO",
+    "call_prefix": 853,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MK",
+    "call_prefix": 389,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MG",
+    "call_prefix": 261,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MW",
+    "call_prefix": 265,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MY",
+    "call_prefix": 60,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "MV",
+    "call_prefix": 960,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "ML",
+    "call_prefix": 223,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MT",
+    "call_prefix": 356,
+    "postcode_format": "LLL NNNN"
+  },
+  {
+    "iso_code": "MH",
+    "call_prefix": 692,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MQ",
+    "call_prefix": 596,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MR",
+    "call_prefix": 222,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "HU",
+    "call_prefix": 36,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "YT",
+    "call_prefix": 262,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MX",
+    "call_prefix": 52,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "FM",
+    "call_prefix": 691,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MD",
+    "call_prefix": 373,
+    "postcode_format": "C-NNNN"
+  },
+  {
+    "iso_code": "MC",
+    "call_prefix": 377,
+    "postcode_format": "980NN"
+  },
+  {
+    "iso_code": "MN",
+    "call_prefix": 976,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "ME",
+    "call_prefix": 382,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "MS",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MA",
+    "call_prefix": 212,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "MZ",
+    "call_prefix": 258,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "NA",
+    "call_prefix": 264,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "NR",
+    "call_prefix": 674,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "NP",
+    "call_prefix": 977,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "AN",
+    "call_prefix": 599,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "NC",
+    "call_prefix": 687,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "NI",
+    "call_prefix": 505,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "NE",
+    "call_prefix": 227,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "NU",
+    "call_prefix": 683,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "NF",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MP",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "OM",
+    "call_prefix": 968,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "PK",
+    "call_prefix": 92,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "PW",
+    "call_prefix": 680,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "PS",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "PA",
+    "call_prefix": 507,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "PG",
+    "call_prefix": 675,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "PY",
+    "call_prefix": 595,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "PE",
+    "call_prefix": 51,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "PH",
+    "call_prefix": 63,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "PN",
+    "call_prefix": null,
+    "postcode_format": "LLLL NLL"
+  },
+  {
+    "iso_code": "PR",
+    "call_prefix": null,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "QA",
+    "call_prefix": 974,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "RE",
+    "call_prefix": 262,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "RU",
+    "call_prefix": 7,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "RW",
+    "call_prefix": 250,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BL",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "KN",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "LC",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "MF",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "PM",
+    "call_prefix": 508,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "VC",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "WS",
+    "call_prefix": 685,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SM",
+    "call_prefix": 378,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "ST",
+    "call_prefix": 239,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SA",
+    "call_prefix": 966,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SN",
+    "call_prefix": 221,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "RS",
+    "call_prefix": 381,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "SC",
+    "call_prefix": 248,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SL",
+    "call_prefix": 232,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SI",
+    "call_prefix": 386,
+    "postcode_format": "C-NNNN"
+  },
+  {
+    "iso_code": "SB",
+    "call_prefix": 677,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SO",
+    "call_prefix": 252,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GS",
+    "call_prefix": null,
+    "postcode_format": "LLLL NLL"
+  },
+  {
+    "iso_code": "LK",
+    "call_prefix": 94,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "SD",
+    "call_prefix": 249,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SR",
+    "call_prefix": 597,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SJ",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SZ",
+    "call_prefix": 268,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "SY",
+    "call_prefix": 963,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TW",
+    "call_prefix": 886,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "TJ",
+    "call_prefix": 992,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TZ",
+    "call_prefix": 255,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TH",
+    "call_prefix": 66,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "TK",
+    "call_prefix": 690,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TO",
+    "call_prefix": 676,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TT",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TN",
+    "call_prefix": 216,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TR",
+    "call_prefix": 90,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "TM",
+    "call_prefix": 993,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TC",
+    "call_prefix": null,
+    "postcode_format": "LLLL NLL"
+  },
+  {
+    "iso_code": "TV",
+    "call_prefix": 688,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "UG",
+    "call_prefix": 256,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "UA",
+    "call_prefix": 380,
+    "postcode_format": "NNNNN"
+  },
+  {
+    "iso_code": "AE",
+    "call_prefix": 971,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "UY",
+    "call_prefix": 598,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "UZ",
+    "call_prefix": 998,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "VU",
+    "call_prefix": 678,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "VE",
+    "call_prefix": 58,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "VN",
+    "call_prefix": 84,
+    "postcode_format": "NNNNNN"
+  },
+  {
+    "iso_code": "VG",
+    "call_prefix": null,
+    "postcode_format": "CNNNN"
+  },
+  {
+    "iso_code": "VI",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "WF",
+    "call_prefix": 681,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "EH",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "YE",
+    "call_prefix": 967,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "ZM",
+    "call_prefix": 260,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "ZW",
+    "call_prefix": 263,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "AL",
+    "call_prefix": 355,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "AF",
+    "call_prefix": 93,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "AQ",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BA",
+    "call_prefix": 387,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "BV",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "IO",
+    "call_prefix": null,
+    "postcode_format": "LLLL NLL"
+  },
+  {
+    "iso_code": "BG",
+    "call_prefix": 359,
+    "postcode_format": "NNNN"
+  },
+  {
+    "iso_code": "KY",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CX",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CC",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "CK",
+    "call_prefix": 682,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "GF",
+    "call_prefix": 594,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "PF",
+    "call_prefix": 689,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "TF",
+    "call_prefix": null,
+    "postcode_format": null
+  },
+  {
+    "iso_code": "AX",
+    "call_prefix": null,
+    "postcode_format": "NNNNN"
+  }
+]
